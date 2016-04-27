@@ -1,0 +1,53 @@
+385DS001 - ncRNA Sequence Extraction - OP-B11 - 11-Apr-14,,,,,,
+S. No.,PMID,ncRNA name,Sequence(s) (RNA or DNA),In Rfam?,Full or partial?,Where sequence came from
+123,18793445,sm8,UGCAGUCACUCGUGGCUGCAAAUACCCUCCUUGGGUGUUUCCUCCCUAGACUUGACCGCGCCGCUGGCGCGGUUCUUUUU,Yes (RF00519),Partial (17 - 80),Sequence extracted from Figure S6
+,,sm137,No response from author,-,-,-
+,,smIgR#6,UCAGGUCGCAAAUGAAGCGCGGCCGCGUCAGGCACUGAUGUCCGCGACCAUACUGACGCCAAGGAAUAACGACCGGAUGAAAUCCGGCGAAACCCCCUCGCGCUCCACGCCGGCUGCCGCUUUUCACGGUGCUUCCGGCGAUUGUUCCGGCCCCUAGACCGAAAUAGGACAGCAAACCUGUCCUAUUU,No,-,Sequence extracted from Figure S8
+,,sm26,ACUCGUUCGCGCAGGGGGGAGACGAGAUUCGCCCAUGAACAGCGUGUACCUCGGGUGGUGCAGGACGCGCAUUUGCCCAUUUGUCAUACAUAUGCACGCGGCGCAUGGCACCCAUGCCGGAAUGUAUCUUUCUCUAUCGGAAUUAUGGUUUAUAAGCCCGCUCAACGAACACGGACGAACGUCCGCCGGUUCAAAAGACUGCAGUUCCGAGAAUAGUUGGUCAUCUGUUCUCCUCCUCCCUCAGGGUGGCCAGCUUCGGAACGGUAGAGCCCGCUUGAGCGCUCCUCCUCCUCAAGCUCGCGGGUAUGGUCGGCCAAAAGCCGGUCAGCAGGCGAUGCUUCGGCAUCGCCUUUGUUU,No,-,Sequence extracted from Figure S9
+,,sm30,No response from author,-,-,-
+,,sm130,No response from author,-,-,-
+,,sm145,AUGAUCAAGAACGCGCCCAUUUCCAGCGUAUAUUUUUGGCUGUUCCGAUAGGAGCGGCCUGCUGAUCAUAUUCAACAAGGCCGCCAUCAGGCGGCUUUU,No,-,Sequence extracted from Figure S11
+,,sm76,GCCAGACGCUGAAACUUGCGAUCGGGCCGAAAGGUCCGGCCCGGCGCCUGCGCGACCCUUGCAAUUUACGGCGAUGAAGCGUAUAUGAGCCUCAAAUUCUUGAUCGGUUAGAUGAAGAGUGGGGCCGUGAGGACCCGCUCUUUUUU,No,-,Sequence extracted from Figure S12
+,,sm84,AUUGUCUGAGCAUCCGGUCCUUCCGGACUCAGACAAUUUCACCGACUGGCGAAUGGGUCUGAUUUUUCUCCCUGUUUUACCUUGAGAGCCGCUUCGCGCGGCUCUUUUUUUU,No,-,Sequence extracted from Figure S13
+,,sm270,GGUCGACCCACUUCCCCCGCAGUUCGCGGUUCGUCUAGCAUAGGAUGUUUGGACUCGCAACACGCCAACGGCAGGAAUGCGGCAUUACCCGGCCGGUUCGGCCGAAUUUU,No,-,Sequence extracted from Figure S14
+,,sm5,AAUUCCUUCGCAAGUGAUGACUUCCGAAGCCACCGACCGGGCCCCGCAAAGGUAUAAAGAGAGCCCGGAGGUCAACACCCGACAGCGCGUUGCGCCCUCGGGUGGUUUUU,Yes (RF01793),Partial (61 - 110),Sequence extracted from Figure S15
+,,sm190,AAAGUUCCCCGCAGGGGAUGAGCCAAUAGACCCUGCUGCUUGCCCGGUACAUGCCAAGACAUUUACCGGGCUUUUUUU,No, -,Sequence extracted from Figure S16
+124,19009289,mir-181-a-1,No response from author,-,-,-
+,,mir-181-a-1*,No response from author,-,-,-
+,,mir-181-b-1,No response from author,-,-,-
+,,mdvn129_d03-r1,No response from author,-,-,-
+,,mdvn102_h12,No response from author,-,-,-
+,,mdv006_c03,No response from author,-,-,-
+131,18820242,anti-NOS2A RNA,No response from author,-,-,-
+139,18488015,SPNCRNA 162,No response from author,-,-,-
+,,SPNCRNA 168,No response from author,-,-,-
+,,SPNCRNA 177,No response from author,-,-,-
+,,SPNCRNA 242*,No response from author,-,-,-
+,,SPNCRNA 270,No response from author,-,-,-
+,,SPNCRNA 353*,No response from author,-,-,-
+,,SPNCRNA 410,No response from author,-,-,-
+,,SPNCRNA 445*,No response from author,-,-,-
+,,SPNCRNA 466,No response from author,-,-,-
+,,SPNCRNA 500,No response from author,-,-,-
+,,SPNCRNA 509,No response from author,-,-,-
+,,SPNCRNA 518*,No response from author,-,-,-
+,,SPNCRNA 527*,No response from author,-,-,-
+,,SPNCRNA 548*,No response from author,-,-,-
+155,17445766,HIT18844,No response from author,No,-,-
+175,23872991,No full text,-,-,-,-
+176,24045012,No full text,-,-,-,-
+182,23064614,BcMF11,"Author response: We are quite willing to  provide you with the sequene of BcMF11. But, recently, we found that this non-coding RNA does not exist as one copy in the Brassica genome. We are trying to isolate all of the copies. We think  we had better finish the isolation before we forwarding the sequences to you. What do you think?",-,-,-
+183,23334669,XACT,No response from author,-,-,-
+185,23415800,Dlx1 antisense RNA,No response from author,-,-,-
+186,23143645,CCAT1,No response from author,-,-,-
+191,23217328,LINC00299,No response from author,-,-,-
+203,21784124,-,-,-,-,Review article; Relavant back citation numbers given PMID: 8612677; PMID: 21075793; PMID: 8384533; PMID: 18042713; PMID: 17545468; PMID: 15678100
+204,21722702,-,-,-,-,Review article; Relavant back citation numbers given PMID: 16440000; PMID: 16607284; PMID: 21317560 
+205,21807064,-,-,-,-,Review article; Relavant back citation numbers given PMID: 21152033 ; PMID: 17011493; PMID: 16848684; PMID: 19483093; PMID: 14517287 
+209,21740954,-,-,-,-,Review article; Relevant back citation numbers given PMID: 19781673
+210,21802485,-,-,-,-,Review article; Relevant back citation numbers given PMID:  1688465; PMID: 15797018; PMID: 19169241; PMID: 20811459; PMID: 19359587; PMID: 17577407; PMID: 16705037; PMID: 19620975
+211,21763392,-,-,-,-,Review article; Relevant back citation numbers given PMID:  1546325; PMID: 21169019; PMID: 20487562; PMID: 21283659
+215,23590987,No full text,-,-,-,-
+216,23706297,No full text,-,-,-,-
+217,24245974,sRNA 42,CAGCAATGCCGTCAGTTAATCTTTCTACGGCTTGACGGAGGGAATGGGTCTTCCATTGACTATGATTTGATGAAATTAAAATCCGGCCAACCAATCGGTAATGCCGAAAAAATCAGCTCCACAAAGGTAAGATTATCACGCAAA,No,-,Sequence co-ordinates are given in Table S5; Sequence extracted from genomic coordinates of Porphyromonas gingivalis W83 with accession number AE015924.1
+,,sRNA 101,ATCATAACAACTATTCCGAGGACAATTTCATCGCTGATGGCGGGCCGCACCTTCGGGTTGCTTTGCACAGCGGATTACAAAGGTGGTGGAATCCTCAAATCTTGTCTTTCGGAGTTTAC,Yes (RF01693),Full (1-119),Sequence co-ordinates are given in Table S5; Sequence extracted from genomic coordinates of Porphyromonas gingivalis W83 with accession number AE015924.1
