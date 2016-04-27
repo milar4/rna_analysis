@@ -38,12 +38,13 @@ def clean_sequence(sequence):
     """
     Remove newline characters.
 
+
     Returns new string
     """
     if is_sequence_valid(line[3]):
         new_sequence = re.sub (r'\s','', sequence)
         return new_sequence
-        
+
 EMPTY = '-'
 i = open('database1.csv', 'w')
 o = csv.writer(i)
@@ -67,7 +68,7 @@ for fyle in sys.argv[1:]:
         for line in my_file:
             comments = ''
             result = ""
-        
+
             if is_pmid_valid(line[1]):
                 pmid = line[1]
                 previous_pmid = pmid
@@ -81,11 +82,11 @@ for fyle in sys.argv[1:]:
                 result = get_rnacentral_id(md5)
                 if result == '':
                     result = EMPTY
-                 
+
             else:
                 sequence = EMPTY
                 comments = line[3]
-                
+
 
             o.writerow ([previous_pmid, line[2], sequence, comments, line[4], line[5], line[6], result, batch])
 
